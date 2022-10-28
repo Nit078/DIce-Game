@@ -39,3 +39,15 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.again{
+  padding: 23px;
+  width: 126px !important;
+  height: 74px !important;
+  background-color: #9c1212;
+  font-size: 23px;
+  font-weight: 600;
+  margin-top: 37px;
+  font-family: cursive;
+  text-align: center;
+}
