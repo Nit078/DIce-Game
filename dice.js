@@ -13,6 +13,9 @@ else if (randomnumber1<randomnumber2){
 else {
     document.querySelector("h1").innerHTML="Draw";
 }
+function refreshPage(){
+    window.location.reload();
+} 
 
 
 
